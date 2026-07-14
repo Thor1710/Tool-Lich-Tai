@@ -1,2 +1,2 @@
-# Tool-Lich-Tai
+# m12-lich-tai
 Thor
